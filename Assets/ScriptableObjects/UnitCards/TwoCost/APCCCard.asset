@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 465ec0fc2d9839247a07768ec382f1cc, type: 3}
+  m_Name: APCCCard
+  m_EditorClassIdentifier: Assembly-CSharp::Data.UnitCardData
+  cardName: "\u0411\u0422\u0420"
+  description: 
+  costMoney: 0
+  costLoyalty: 0
+  costProduction: 1
+  costTechnology: 1
+  damageToUnits: 1
+  damageToStability: 0
+  counterDamage: 0
+  hp: 3
+  armor: 1
+  attackDelay: 1
+  canDirectAttack: 0

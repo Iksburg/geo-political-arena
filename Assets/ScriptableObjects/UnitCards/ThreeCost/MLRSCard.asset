@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 465ec0fc2d9839247a07768ec382f1cc, type: 3}
+  m_Name: MLRSCard
+  m_EditorClassIdentifier: Assembly-CSharp::Data.UnitCardData
+  cardName: "\u0420\u0421\u0417\u041E"
+  description: 
+  costMoney: 1
+  costLoyalty: 0
+  costProduction: 2
+  costTechnology: 0
+  damageToUnits: 5
+  damageToStability: 4
+  counterDamage: 0
+  hp: 4
+  armor: 0
+  attackDelay: 1
+  canDirectAttack: 0
